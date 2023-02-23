@@ -18,15 +18,17 @@ A list for GPT resources
 - The simplest, fastest repository for training/finetuning medium-sized GPTs[https://github.com/karpathy/nanoGPT](https://github.com/karpathy/nanoGPT)
 - GPT 社會化的過程 [https://www.youtube.com/watch?v=e0aKI2GGZNg](https://www.youtube.com/watch?v=e0aKI2GGZNg)
 
-## Amazon NPL
+## Amazon NLP
 
 - Multimodal Chain-of-Thought Reasoning in Language Models [https://github.com/amazon-science/mm-cot](https://github.com/amazon-science/mm-cot)
 - Paper [https://arxiv.org/pdf/2302.00923.pdf](https://arxiv.org/pdf/2302.00923.pdf)
 
-## Build own GPT
+## Build your own GPT
 
-- I built an AI that answers questions based on my user research data [https://uxdesign.cc/i-built-an-ai-that-answers-questions-based-on-my-user-research-data-7207b052e21c](https://uxdesign.cc/i-built-an-ai-that-answers-questions-based-on-my-user-research-data-7207b052e21c)
-- Build AI chatbot with custom knowledge base using OpenAI API and GPT Index
- [https://www.youtube.com/watch?v=vDZAZuaXf48](https://www.youtube.com/watch?v=vDZAZuaXf48)
-- [https://colab.research.google.com/drive/1PQXcM_jhN6QJ7uTkxvNbxoI54r03uSr3?usp=sharing](https://colab.research.google.com/drive/1PQXcM_jhN6QJ7uTkxvNbxoI54r03uSr3?usp=sharing)
+- I built an AI that answers questions based on my user research data 
+  - [https://uxdesign.cc/i-built-an-ai-that-answers-questions-based-on-my-user-research-data-7207b052e21c](https://uxdesign.cc/i-built-an-ai-that-answers-questions-based-on-my-user-research-data-7207b052e21c)
+  - Build AI chatbot with custom knowledge base using OpenAI API and GPT Index
+[https://www.youtube.com/watch?v=vDZAZuaXf48](https://www.youtube.com/watch?v=vDZAZuaXf48)
+  - [https://colab.research.google.com/drive/1PQXcM_jhN6QJ7uTkxvNbxoI54r03uSr3?usp=sharing](https://colab.research.google.com/drive/1PQXcM_jhN6QJ7uTkxvNbxoI54r03uSr3?usp=sharing)
+  
 - [https://twitter.com/nishuang/status/1627444608937385984](https://twitter.com/nishuang/status/1627444608937385984)
