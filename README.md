@@ -23,6 +23,11 @@ A list for GPT resources
 - Multimodal Chain-of-Thought Reasoning in Language Models [https://github.com/amazon-science/mm-cot](https://github.com/amazon-science/mm-cot)
 - Paper [https://arxiv.org/pdf/2302.00923.pdf](https://arxiv.org/pdf/2302.00923.pdf)
 
+## Meta NLP
+
+- Paper [https://scontent-lhr8-1.xx.fbcdn.net/v/t39.8562-6/333078981_693988129081760_4712707815225756708_n.pdf?_nc_cat=108&ccb=1-7&_nc_sid=ad8a9d&_nc_ohc=8TSHY74yfqYAX_AXcyc&_nc_ht=scontent-lhr8-1.xx&oh=00_AfBQqzsC9O8sqgCqXFvWSo5kFLK4286g9OYIsWYrWZmAfQ&oe=6405BE62](https://scontent-lhr8-1.xx.fbcdn.net/v/t39.8562-6/333078981_693988129081760_4712707815225756708_n.pdf?_nc_cat=108&ccb=1-7&_nc_sid=ad8a9d&_nc_ohc=8TSHY74yfqYAX_AXcyc&_nc_ht=scontent-lhr8-1.xx&oh=00_AfBQqzsC9O8sqgCqXFvWSo5kFLK4286g9OYIsWYrWZmAfQ&oe=6405BE62)
+- Repo [https://github.com/facebookresearch/llama](https://github.com/facebookresearch/llama)
+
 ## Build your own GPT
 
 - I built an AI that answers questions based on my user research data 
@@ -30,5 +35,5 @@ A list for GPT resources
   - Build AI chatbot with custom knowledge base using OpenAI API and GPT Index
 [https://www.youtube.com/watch?v=vDZAZuaXf48](https://www.youtube.com/watch?v=vDZAZuaXf48)
   - [https://colab.research.google.com/drive/1PQXcM_jhN6QJ7uTkxvNbxoI54r03uSr3?usp=sharing](https://colab.research.google.com/drive/1PQXcM_jhN6QJ7uTkxvNbxoI54r03uSr3?usp=sharing)
-  
+
 - [https://twitter.com/nishuang/status/1627444608937385984](https://twitter.com/nishuang/status/1627444608937385984)
