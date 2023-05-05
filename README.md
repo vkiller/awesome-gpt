@@ -39,4 +39,5 @@ A list for GPT resources
 - [https://twitter.com/nishuang/status/1627444608937385984](https://twitter.com/nishuang/status/1627444608937385984)
 
 ## 提示工程
+- [一起学 OpenAI+吴恩达 Prompt工程师课程](https://www.bilibili.com/video/BV1qo4y1w7zV/)
 - [吴恩达-prompt工程师课程-思维导图](https://github.com/ZhangHanDong/rustchat/releases/tag/prompt%E5%B7%A5%E7%A8%8B%E5%B8%88%E8%AF%BE%E7%A8%8B%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE)
