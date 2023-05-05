@@ -39,6 +39,8 @@ A list for GPT resources
 - [https://twitter.com/nishuang/status/1627444608937385984](https://twitter.com/nishuang/status/1627444608937385984)
 
 ## 提示工程
-- [ChatGPT提示工程师｜AI大神吴恩达教你写提示词](https://www.youtube.com/watch?v=XQGtZHv4cho)
-- [一起学 OpenAI+吴恩达 Prompt工程师课程](https://www.bilibili.com/video/BV1qo4y1w7zV/)
+- 英文原地址[ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/1/introduction)
+- 中文字幕视频[面向开发者的 ChatGPT 提示词工程](https://www.bilibili.com/list/15467823?sid=3247315&spm_id_from=333.999.0.0&desc=1&oid=783015669&bvid=BV1s24y1F7eq)
+- [非官方版中英双语字幕](https://github.com/GitHubDaily/ChatGPT-Prompt-Engineering-for-Developers-in-Chinese)
+
 - [吴恩达-prompt工程师课程-思维导图](https://github.com/ZhangHanDong/rustchat/releases/tag/prompt%E5%B7%A5%E7%A8%8B%E5%B8%88%E8%AF%BE%E7%A8%8B%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE)
