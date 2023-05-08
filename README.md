@@ -38,7 +38,7 @@ A list for GPT resources
 
 - [https://twitter.com/nishuang/status/1627444608937385984](https://twitter.com/nishuang/status/1627444608937385984)
 
-## 提示工程
+## ChatGPT Prompt Engineering
 - 英文原地址[ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/1/introduction)
 - 中文字幕视频[面向开发者的 ChatGPT 提示词工程](https://www.bilibili.com/list/15467823?sid=3247315&spm_id_from=333.999.0.0&desc=1&oid=783015669&bvid=BV1s24y1F7eq)
 - [非官方版中英双语字幕](https://github.com/GitHubDaily/ChatGPT-Prompt-Engineering-for-Developers-in-Chinese)
