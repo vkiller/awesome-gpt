@@ -47,3 +47,4 @@ A list for GPT resources
 
 ## OpenAI fine-tune
 - [https://platform.openai.com/docs/guides/fine-tuning](https://platform.openai.com/docs/guides/fine-tuning)
+- [https://www.youtube.com/watch?v=mzz1ldrRcuc](https://www.youtube.com/watch?v=mzz1ldrRcuc)
