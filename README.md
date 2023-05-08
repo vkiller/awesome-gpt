@@ -25,7 +25,7 @@ A list for GPT resources
 
 ## Meta NLP
 
-- Paper [https://scontent-lhr8-1.xx.fbcdn.net/v/t39.8562-6/333078981_693988129081760_4712707815225756708_n.pdf?_nc_cat=108&ccb=1-7&_nc_sid=ad8a9d&_nc_ohc=8TSHY74yfqYAX_AXcyc&_nc_ht=scontent-lhr8-1.xx&oh=00_AfBQqzsC9O8sqgCqXFvWSo5kFLK4286g9OYIsWYrWZmAfQ&oe=6405BE62](https://scontent-lhr8-1.xx.fbcdn.net/v/t39.8562-6/333078981_693988129081760_4712707815225756708_n.pdf?_nc_cat=108&ccb=1-7&_nc_sid=ad8a9d&_nc_ohc=8TSHY74yfqYAX_AXcyc&_nc_ht=scontent-lhr8-1.xx&oh=00_AfBQqzsC9O8sqgCqXFvWSo5kFLK4286g9OYIsWYrWZmAfQ&oe=6405BE62)
+- Paper [https://arxiv.org/abs/2302.13971](https://arxiv.org/abs/2302.13971)
 - Repo [https://github.com/facebookresearch/llama](https://github.com/facebookresearch/llama)
 
 ## Build your own GPT
