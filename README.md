@@ -1,6 +1,10 @@
 # Awesome GPT
 A list for GPT resources
 
+## LLM
+- [Introduction to Large Language Models](https://www.youtube.com/watch?v=zizonToFXDs)
+
+
 ## GPT & ChatGPT official
 
 - Architecture [https://openai.com/blog/instruction-following/](https://openai.com/blog/instruction-following/)
@@ -48,3 +52,4 @@ A list for GPT resources
 ## OpenAI fine-tune
 - [https://platform.openai.com/docs/guides/fine-tuning](https://platform.openai.com/docs/guides/fine-tuning)
 - [https://www.youtube.com/watch?v=mzz1ldrRcuc](https://www.youtube.com/watch?v=mzz1ldrRcuc)
+
