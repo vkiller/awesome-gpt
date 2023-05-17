@@ -2,7 +2,8 @@
 A list for GPT resources
 
 ## LLM
-- [Introduction to Large Language Models](https://www.youtube.com/watch?v=zizonToFXDs)
+- [Introduction to Large Language Models](https://youtu.be/zizonToFXDs)
+- [Introduction to Generative AI](https://youtu.be/G2fqAlgmoPo)
 
 
 ## GPT & ChatGPT official
