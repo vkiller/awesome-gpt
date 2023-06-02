@@ -5,7 +5,6 @@ A list for GPT resources
 - [Introduction to Large Language Models](https://youtu.be/zizonToFXDs)
 - [Introduction to Generative AI](https://youtu.be/G2fqAlgmoPo)
 
-
 ## GPT & ChatGPT official
 
 - Architecture [https://openai.com/blog/instruction-following/](https://openai.com/blog/instruction-following/)
