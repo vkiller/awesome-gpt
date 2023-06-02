@@ -33,6 +33,11 @@ A list for GPT resources
 - Paper [https://arxiv.org/abs/2302.13971](https://arxiv.org/abs/2302.13971)
 - Repo [https://github.com/facebookresearch/llama](https://github.com/facebookresearch/llama)
 
+## State of GPT
+
+- [https://youtu.be/bZQun8Y4L2A](https://youtu.be/bZQun8Y4L2A)
+- [https://karpathy.ai/stateofgpt.pdf](https://karpathy.ai/stateofgpt.pdf)
+
 ## Build your own GPT
 
 - I built an AI that answers questions based on my user research data 
