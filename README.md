@@ -56,6 +56,7 @@ A list for GPT resources
 
 ## Building Systems with the ChatGPT API
 - [https://learn.deeplearning.ai/chatgpt-building-system/lesson/1/introduction](https://learn.deeplearning.ai/chatgpt-building-system/lesson/1/introduction)
+- [中英文字幕](https://twitter.com/dotey/status/1664335473500626946)
 
 ## OpenAI fine-tune
 - [https://platform.openai.com/docs/guides/fine-tuning](https://platform.openai.com/docs/guides/fine-tuning)
