@@ -54,6 +54,9 @@ A list for GPT resources
 
 - [吴恩达-prompt工程师课程-思维导图](https://github.com/ZhangHanDong/rustchat/releases/tag/prompt%E5%B7%A5%E7%A8%8B%E5%B8%88%E8%AF%BE%E7%A8%8B%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE)
 
+## Building Systems with the ChatGPT API
+- [https://learn.deeplearning.ai/chatgpt-building-system/lesson/1/introduction](https://learn.deeplearning.ai/chatgpt-building-system/lesson/1/introduction)
+
 ## OpenAI fine-tune
 - [https://platform.openai.com/docs/guides/fine-tuning](https://platform.openai.com/docs/guides/fine-tuning)
 - [https://www.youtube.com/watch?v=mzz1ldrRcuc](https://www.youtube.com/watch?v=mzz1ldrRcuc)
