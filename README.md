@@ -70,3 +70,4 @@ A list for GPT resources
 
 - [https://youtu.be/G2fqAlgmoPo](https://youtu.be/G2fqAlgmoPo)
 - [https://youtu.be/zizonToFXDs](https://youtu.be/zizonToFXDs)
+- [https://youtu.be/2Pzk7ySufZM](https://youtu.be/2Pzk7ySufZM)
