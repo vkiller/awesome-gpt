@@ -62,8 +62,8 @@ A list for GPT resources
 - [https://platform.openai.com/docs/guides/fine-tuning](https://platform.openai.com/docs/guides/fine-tuning)
 - [https://www.youtube.com/watch?v=mzz1ldrRcuc](https://www.youtube.com/watch?v=mzz1ldrRcuc)
 
-## AI for Beginners
+## Microsoft : AI for Beginners
 - [https://github.com/Microsoft/AI-For-Beginners](https://github.com/Microsoft/AI-For-Beginners)
 
-## Generative AI learning path
+## Google : Generative AI learning path
 - [https://www.cloudskillsboost.google/journeys/118](https://www.cloudskillsboost.google/journeys/118)
