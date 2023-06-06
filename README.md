@@ -64,3 +64,6 @@ A list for GPT resources
 
 ## AI for Beginners
 - [https://github.com/Microsoft/AI-For-Beginners](https://github.com/Microsoft/AI-For-Beginners)
+
+## Generative AI learning path
+- [https://www.cloudskillsboost.google/journeys/118](https://www.cloudskillsboost.google/journeys/118)
