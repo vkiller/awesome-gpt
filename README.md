@@ -62,3 +62,5 @@ A list for GPT resources
 - [https://platform.openai.com/docs/guides/fine-tuning](https://platform.openai.com/docs/guides/fine-tuning)
 - [https://www.youtube.com/watch?v=mzz1ldrRcuc](https://www.youtube.com/watch?v=mzz1ldrRcuc)
 
+## AI for Beginners
+- [https://github.com/Microsoft/AI-For-Beginners](https://github.com/Microsoft/AI-For-Beginners)
