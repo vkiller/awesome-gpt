@@ -77,6 +77,9 @@ A list for GPT resources
 - [Attention Mechanism: Overview](https://youtu.be/iYC8eZL2kKw)
 - [Transformer Models and BERT Model](https://youtu.be/sUCiDU8GhMA)
 - [Transformer Models and BERT Model: Lab Walkthrough](https://youtu.be/6hhvQb8tSPs)
+- [Create Image Captioning Models: Overview](https://youtu.be/7a5SMSCzTg8)
+- [Create Image Captioning Models: Lab Walkthrough](https://youtu.be/c8VO_Lf1cjA)
+- [Introduction to Generative AI Studio](https://youtu.be/uwbMDp3KprU)
 
 ## GPT best practices
 - [https://platform.openai.com/docs/guides/gpt-best-practices/strategy-write-clear-instructions](https://platform.openai.com/docs/guides/gpt-best-practices/strategy-write-clear-instructions)
