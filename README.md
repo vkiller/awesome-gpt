@@ -66,7 +66,7 @@ A list for GPT resources
 - [https://github.com/Microsoft/AI-For-Beginners](https://github.com/Microsoft/AI-For-Beginners)
 
 ## Google : Generative AI learning path
-- [https://www.cloudskillsboost.google/journeys/118](https://www.cloudskillsboost.google/journeys/118)
+[https://www.cloudskillsboost.google/journeys/118](https://www.cloudskillsboost.google/journeys/118)
 
 - [Introduction to Generative AI](https://youtu.be/G2fqAlgmoPo)
 - [Introduction to Large Language Models](https://youtu.be/zizonToFXDs)
