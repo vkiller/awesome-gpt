@@ -71,6 +71,8 @@ A list for GPT resources
 - [https://youtu.be/G2fqAlgmoPo](https://youtu.be/G2fqAlgmoPo)
 - [https://youtu.be/zizonToFXDs](https://youtu.be/zizonToFXDs)
 - [https://youtu.be/2Pzk7ySufZM](https://youtu.be/2Pzk7ySufZM)
+- [https://youtu.be/J0AuVBxzui0](https://youtu.be/J0AuVBxzui0)
+- [https://youtu.be/qZxtqYlZHnM](https://youtu.be/qZxtqYlZHnM)
 
 ## GPT best practices
 - [https://platform.openai.com/docs/guides/gpt-best-practices/strategy-write-clear-instructions](https://platform.openai.com/docs/guides/gpt-best-practices/strategy-write-clear-instructions)
