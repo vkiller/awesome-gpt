@@ -68,11 +68,14 @@ A list for GPT resources
 ## Google : Generative AI learning path
 - [https://www.cloudskillsboost.google/journeys/118](https://www.cloudskillsboost.google/journeys/118)
 
-- [https://youtu.be/G2fqAlgmoPo](https://youtu.be/G2fqAlgmoPo)
-- [https://youtu.be/zizonToFXDs](https://youtu.be/zizonToFXDs)
-- [https://youtu.be/2Pzk7ySufZM](https://youtu.be/2Pzk7ySufZM)
-- [https://youtu.be/J0AuVBxzui0](https://youtu.be/J0AuVBxzui0)
-- [https://youtu.be/qZxtqYlZHnM](https://youtu.be/qZxtqYlZHnM)
+- [Introduction to Generative AI](https://youtu.be/G2fqAlgmoPo)
+- [Introduction to Large Language Models](https://youtu.be/zizonToFXDs)
+- [Introduction to Responsible AI](https://youtu.be/2Pzk7ySufZM)
+- [Introduction to Image Generation](https://youtu.be/J0AuVBxzui0)
+- [Encoder-Decoder Architecture - 1](https://youtu.be/qZxtqYlZHnM)
+- [Encoder-Decoder Architecture - 2](https://youtu.be/FW--2KkTQ1s)
+- [Attention Mechanism: Overview](https://youtu.be/iYC8eZL2kKw)
+- [Transformer Models and BERT Model](https://youtu.be/sUCiDU8GhMA)
 
 ## GPT best practices
 - [https://platform.openai.com/docs/guides/gpt-best-practices/strategy-write-clear-instructions](https://platform.openai.com/docs/guides/gpt-best-practices/strategy-write-clear-instructions)
