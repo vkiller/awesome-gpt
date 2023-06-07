@@ -72,10 +72,11 @@ A list for GPT resources
 - [Introduction to Large Language Models](https://youtu.be/zizonToFXDs)
 - [Introduction to Responsible AI](https://youtu.be/2Pzk7ySufZM)
 - [Introduction to Image Generation](https://youtu.be/J0AuVBxzui0)
-- [Encoder-Decoder Architecture - 1](https://youtu.be/qZxtqYlZHnM)
-- [Encoder-Decoder Architecture - 2](https://youtu.be/FW--2KkTQ1s)
+- [Encoder-Decoder Architecture: Overview](https://youtu.be/qZxtqYlZHnM)
+- [Encoder-Decoder Architecture: Lab Walkthrough](https://youtu.be/FW--2KkTQ1s)
 - [Attention Mechanism: Overview](https://youtu.be/iYC8eZL2kKw)
 - [Transformer Models and BERT Model](https://youtu.be/sUCiDU8GhMA)
+- [Transformer Models and BERT Model: Lab Walkthrough](https://youtu.be/6hhvQb8tSPs)
 
 ## GPT best practices
 - [https://platform.openai.com/docs/guides/gpt-best-practices/strategy-write-clear-instructions](https://platform.openai.com/docs/guides/gpt-best-practices/strategy-write-clear-instructions)
