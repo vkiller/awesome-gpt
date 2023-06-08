@@ -85,3 +85,7 @@ A list for GPT resources
 
 ## GPT best practices
 - [https://platform.openai.com/docs/guides/gpt-best-practices/strategy-write-clear-instructions](https://platform.openai.com/docs/guides/gpt-best-practices/strategy-write-clear-instructions)
+
+## LangChain for LLM Application Development
+- [https://learn.deeplearning.ai/langchain/lesson/1/introduction](https://learn.deeplearning.ai/langchain/lesson/1/introduction)
+- [中英文](https://www.youtube.com/watch?v=gUcYC0Iuw2g&list=PLiuLMb-dLdWIYYBF3k5JI_6Od593EIuEG)
