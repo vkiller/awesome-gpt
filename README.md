@@ -67,6 +67,7 @@ A list for GPT resources
 
 ## Google : Generative AI learning path
 [https://www.cloudskillsboost.google/journeys/118](https://www.cloudskillsboost.google/journeys/118)
+
 [https://cloud.google.com/blog/topics/training-certifications/new-google-cloud-generative-ai-training-resources](https://cloud.google.com/blog/topics/training-certifications/new-google-cloud-generative-ai-training-resources)
 
 - [Introduction to Generative AI](https://youtu.be/G2fqAlgmoPo)
