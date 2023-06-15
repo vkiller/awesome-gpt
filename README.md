@@ -89,3 +89,6 @@ A list for GPT resources
 ## LangChain for LLM Application Development
 - [https://learn.deeplearning.ai/langchain/lesson/1/introduction](https://learn.deeplearning.ai/langchain/lesson/1/introduction)
 - [中英文](https://www.youtube.com/watch?v=gUcYC0Iuw2g&list=PLiuLMb-dLdWIYYBF3k5JI_6Od593EIuEG)
+
+# GPT Tools
+- [https://github.com/microsoft/guidance](https://github.com/microsoft/guidance)
