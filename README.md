@@ -21,6 +21,8 @@ A list for GPT resources
 - Andrej Karpathy: Let's build GPT [https://www.youtube.com/watch?v=kCc8FmEb1nY](https://www.youtube.com/watch?v=kCc8FmEb1nY)
 - The simplest, fastest repository for training/finetuning medium-sized GPTs[https://github.com/karpathy/nanoGPT](https://github.com/karpathy/nanoGPT)
 - GPT 社會化的過程 [https://www.youtube.com/watch?v=e0aKI2GGZNg](https://www.youtube.com/watch?v=e0aKI2GGZNg)
+- Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond [https://github.com/Mooler0410/LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide)
+- Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond [https://arxiv.org/pdf/2304.13712.pdf](https://arxiv.org/pdf/2304.13712.pdf)
 
 ## Amazon NLP
 
