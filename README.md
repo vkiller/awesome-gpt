@@ -94,3 +94,9 @@ A list for GPT resources
 
 # GPT Tools
 - [https://github.com/microsoft/guidance](https://github.com/microsoft/guidance)
+
+# GPT Practices
+## Azure Cognitive Search & OpenAI
+- [https://cognitivesearchgpt.chinacloudsites.cn/](https://cognitivesearchgpt.chinacloudsites.cn/)
+- [https://github.com/Azure-Samples/azure-search-openai-demo/](https://github.com/Azure-Samples/azure-search-openai-demo/)
+- [https://youtu.be/iS36n9rO6OQ](https://youtu.be/iS36n9rO6OQ)
