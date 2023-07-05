@@ -23,7 +23,8 @@ A list for GPT resources
 - GPT 社會化的過程 [https://www.youtube.com/watch?v=e0aKI2GGZNg](https://www.youtube.com/watch?v=e0aKI2GGZNg)
 - Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond [https://github.com/Mooler0410/LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide)
 - Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond [https://arxiv.org/pdf/2304.13712.pdf](https://arxiv.org/pdf/2304.13712.pdf)
-
+- [ChatGPT 背后的“功臣”——RLHF 技术详解](https://huggingface.co/blog/zh/rlhf)
+- [https://github.com/huggingface/blog/blob/main/zh/rlhf.md](https://github.com/huggingface/blog/blob/main/zh/rlhf.md)
 ## Amazon NLP
 
 - Multimodal Chain-of-Thought Reasoning in Language Models [https://github.com/amazon-science/mm-cot](https://github.com/amazon-science/mm-cot)
