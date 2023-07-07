@@ -101,3 +101,7 @@ A list for GPT resources
 - [https://cognitivesearchgpt.chinacloudsites.cn/](https://cognitivesearchgpt.chinacloudsites.cn/)
 - [https://github.com/Azure-Samples/azure-search-openai-demo/](https://github.com/Azure-Samples/azure-search-openai-demo/)
 - [https://youtu.be/iS36n9rO6OQ](https://youtu.be/iS36n9rO6OQ)
+
+# MLOps
+- [https://github.com/visenger/awesome-mlops](https://github.com/visenger/awesome-mlops)
+- [https://github.com/microsoft/MLOps](https://github.com/microsoft/MLOps)
