@@ -105,3 +105,6 @@ A list for GPT resources
 # MLOps
 - [https://github.com/visenger/awesome-mlops](https://github.com/visenger/awesome-mlops)
 - [https://github.com/microsoft/MLOps](https://github.com/microsoft/MLOps)
+
+# Repos
+- [https://github.com/Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
