@@ -113,3 +113,4 @@ A list for GPT resources
 - [https://github.com/axa-group/nlp.js](https://github.com/axa-group/nlp.js)
 - [https://github.com/snipsco/snips-nlu](https://github.com/snipsco/snips-nlu)
 - [https://github.com/RasaHQ/rasa](https://github.com/RasaHQ/rasa)
+- [https://github.com/PaddlePaddle/PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP)
