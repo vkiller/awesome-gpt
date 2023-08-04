@@ -108,3 +108,8 @@ A list for GPT resources
 
 # Repos
 - [https://github.com/Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
+
+# NLP & NLU lib
+- [https://github.com/axa-group/nlp.js](https://github.com/axa-group/nlp.js)
+- [https://github.com/snipsco/snips-nlu](https://github.com/snipsco/snips-nlu)
+- [https://github.com/RasaHQ/rasa](https://github.com/RasaHQ/rasa)
