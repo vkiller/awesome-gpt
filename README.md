@@ -115,3 +115,5 @@ A list for GPT resources
 - [https://github.com/RasaHQ/rasa](https://github.com/RasaHQ/rasa)
 - [https://github.com/PaddlePaddle/PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP)
 - [https://github.com/PaddlePaddle/PaddleNLP/tree/develop/model_zoo/uie](https://github.com/PaddlePaddle/PaddleNLP/tree/develop/model_zoo/uie)
+
+[NER相关](https://github.com/topics/named-entity-recognition)
