@@ -119,5 +119,7 @@ A list for GPT resources
 [NER相关](https://github.com/topics/named-entity-recognition)
 
 # Fine-Tuning Large Language Models
+- [https://youtu.be/QyptrmzGJwc?t=188](https://youtu.be/QyptrmzGJwc?t=188)
 - [https://magazine.sebastianraschka.com/p/finetuning-large-language-models](https://magazine.sebastianraschka.com/p/finetuning-large-language-models)
 - [https://magazine.sebastianraschka.com/p/finetuning-llms-with-adapters](https://magazine.sebastianraschka.com/p/finetuning-llms-with-adapters)
+- [https://magazine.sebastianraschka.com/p/understanding-parameter-efficient](https://magazine.sebastianraschka.com/p/understanding-parameter-efficient)
