@@ -117,3 +117,7 @@ A list for GPT resources
 - [https://github.com/PaddlePaddle/PaddleNLP/tree/develop/model_zoo/uie](https://github.com/PaddlePaddle/PaddleNLP/tree/develop/model_zoo/uie)
 
 [NER相关](https://github.com/topics/named-entity-recognition)
+
+# Fine-Tuning Large Language Models
+- [https://magazine.sebastianraschka.com/p/finetuning-large-language-models](https://magazine.sebastianraschka.com/p/finetuning-large-language-models)
+- [https://magazine.sebastianraschka.com/p/finetuning-llms-with-adapters](https://magazine.sebastianraschka.com/p/finetuning-llms-with-adapters)
