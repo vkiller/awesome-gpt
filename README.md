@@ -125,7 +125,7 @@ A list for GPT resources
 - [https://magazine.sebastianraschka.com/p/finetuning-llms-with-adapters](https://magazine.sebastianraschka.com/p/finetuning-llms-with-adapters)
 - [https://magazine.sebastianraschka.com/p/understanding-parameter-efficient](https://magazine.sebastianraschka.com/p/understanding-parameter-efficient)
 
-# Chain-of-Thought
+# Agents & Chain-of-Thought
 - [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/pdf/2201.11903.pdf)
 - [A trend starts from "Chain of Thought Prompting Elicits Reasoning in Large Language Models"](https://github.com/Timothyxxx/Chain-of-ThoughtsPapers)
-- 
+- [Paper collection on building and evaluating language model agents via executable language grounding](https://github.com/xlang-ai/xlang-paper-reading)
