@@ -127,6 +127,7 @@ A list for GPT resources
 
 # Agents & Chain-of-Thought
 - [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/)
+- [Language Models Perform Reasoning via Chain of Thought](https://blog.research.google/2022/05/language-models-perform-reasoning-via.html)
 - [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/pdf/2201.11903.pdf)
 - [AUTOMATIC CHAIN OF THOUGHT PROMPTING IN LARGE LANGUAGE MODELS](https://arxiv.org/pdf/2210.03493.pdf)
 - [A trend starts from "Chain of Thought Prompting Elicits Reasoning in Large Language Models"](https://github.com/Timothyxxx/Chain-of-ThoughtsPapers)
