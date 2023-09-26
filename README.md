@@ -132,3 +132,4 @@ A list for GPT resources
 - [AUTOMATIC CHAIN OF THOUGHT PROMPTING IN LARGE LANGUAGE MODELS](https://arxiv.org/pdf/2210.03493.pdf)
 - [A trend starts from "Chain of Thought Prompting Elicits Reasoning in Large Language Models"](https://github.com/Timothyxxx/Chain-of-ThoughtsPapers)
 - [Paper collection on building and evaluating language model agents via executable language grounding](https://github.com/xlang-ai/xlang-paper-reading)
+- [https://pub.towardsai.net/chain-of-thought-reasoning-a3d531aa8054](https://pub.towardsai.net/chain-of-thought-reasoning-a3d531aa8054)
