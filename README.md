@@ -133,3 +133,6 @@ A list for GPT resources
 - [A trend starts from "Chain of Thought Prompting Elicits Reasoning in Large Language Models"](https://github.com/Timothyxxx/Chain-of-ThoughtsPapers)
 - [Paper collection on building and evaluating language model agents via executable language grounding](https://github.com/xlang-ai/xlang-paper-reading)
 - [https://pub.towardsai.net/chain-of-thought-reasoning-a3d531aa8054](https://pub.towardsai.net/chain-of-thought-reasoning-a3d531aa8054)
+- [https://www.microsoft.com/en-us/research/blog/autogen-enabling-next-generation-large-language-model-applications/](https://www.microsoft.com/en-us/research/blog/autogen-enabling-next-generation-large-language-model-applications/)
+- [https://browse.arxiv.org/pdf/2308.08155.pdf](https://browse.arxiv.org/pdf/2308.08155.pdf)
+- [https://github.com/microsoft/autogen](https://github.com/microsoft/autogen)
