@@ -125,6 +125,9 @@ A list for GPT resources
 - [https://magazine.sebastianraschka.com/p/finetuning-llms-with-adapters](https://magazine.sebastianraschka.com/p/finetuning-llms-with-adapters)
 - [https://magazine.sebastianraschka.com/p/understanding-parameter-efficient](https://magazine.sebastianraschka.com/p/understanding-parameter-efficient)
 
+# RAG
+- [https://arxiv.org/abs/2312.10997](https://arxiv.org/abs/2312.10997)
+
 # Agents & Chain-of-Thought
 - [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/)
 - [Language Models Perform Reasoning via Chain of Thought](https://blog.research.google/2022/05/language-models-perform-reasoning-via.html)
