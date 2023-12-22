@@ -127,6 +127,9 @@ A list for GPT resources
 
 # RAG
 - [https://arxiv.org/abs/2312.10997](https://arxiv.org/abs/2312.10997)
+- [https://github.com/embedchain/embedchain](https://github.com/embedchain/embedchain)
+- [https://github.com/StanGirard/quivr](https://github.com/StanGirard/quivr)
+- [https://github.com/langgenius/dify](https://github.com/langgenius/dify)
 
 # Agents & Chain-of-Thought
 - [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/)
