@@ -130,6 +130,7 @@ A list for GPT resources
 - [https://github.com/embedchain/embedchain](https://github.com/embedchain/embedchain)
 - [https://github.com/StanGirard/quivr](https://github.com/StanGirard/quivr)
 - [https://github.com/langgenius/dify](https://github.com/langgenius/dify)
+- [https://github.com/explodinggradients/ragas](https://github.com/explodinggradients/ragas)
 
 # Agents & Chain-of-Thought
 - [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/)
