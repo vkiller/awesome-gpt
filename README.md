@@ -143,3 +143,6 @@ A list for GPT resources
 - [https://www.microsoft.com/en-us/research/blog/autogen-enabling-next-generation-large-language-model-applications/](https://www.microsoft.com/en-us/research/blog/autogen-enabling-next-generation-large-language-model-applications/)
 - [https://browse.arxiv.org/pdf/2308.08155.pdf](https://browse.arxiv.org/pdf/2308.08155.pdf)
 - [https://github.com/microsoft/autogen](https://github.com/microsoft/autogen)
+
+# Voice
+- [https://github.com/myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice)
