@@ -125,6 +125,12 @@ A list for GPT resources
 - [https://magazine.sebastianraschka.com/p/finetuning-llms-with-adapters](https://magazine.sebastianraschka.com/p/finetuning-llms-with-adapters)
 - [https://magazine.sebastianraschka.com/p/understanding-parameter-efficient](https://magazine.sebastianraschka.com/p/understanding-parameter-efficient)
 
+# NL2SQL
+- [https://hex.tech/](https://hex.tech/)
+- [https://github.com/chat2db/Chat2DB](https://github.com/chat2db/Chat2DB)
+- [https://github.com/vanna-ai/vanna](https://github.com/vanna-ai/vanna)
+- [https://youtu.be/mixwxOLSeFE](https://youtu.be/mixwxOLSeFE)
+
 # RAG
 - [https://arxiv.org/abs/2312.10997](https://arxiv.org/abs/2312.10997)
 - [https://github.com/embedchain/embedchain](https://github.com/embedchain/embedchain)
