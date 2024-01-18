@@ -150,6 +150,8 @@ A list for GPT resources
 - [https://www.microsoft.com/en-us/research/blog/autogen-enabling-next-generation-large-language-model-applications/](https://www.microsoft.com/en-us/research/blog/autogen-enabling-next-generation-large-language-model-applications/)
 - [https://browse.arxiv.org/pdf/2308.08155.pdf](https://browse.arxiv.org/pdf/2308.08155.pdf)
 - [https://github.com/microsoft/autogen](https://github.com/microsoft/autogen)
+- [Structured Chain-of-Thought Prompting for Code Generation](https://arxiv.org/pdf/2305.06599.pdf)
+- [Self-planning Code Generation with Large Language Models](https://arxiv.org/pdf/2303.06689.pdf)
 
 # Voice
 - [https://github.com/myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice)
