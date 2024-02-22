@@ -155,3 +155,6 @@ A list for GPT resources
 
 # Voice
 - [https://github.com/myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice)
+
+# ChatGPT style WEB UI
+- [https://github.com/open-webui/open-webui](https://github.com/open-webui/open-webui)
