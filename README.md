@@ -161,6 +161,7 @@ A list for GPT resources
 
 # ChatGPT style WEB UI
 - [https://github.com/open-webui/open-webui](https://github.com/open-webui/open-webui)
+- [https://github.com/mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui)
 
 # Open Model
 - [https://github.com/ollama/ollama](https://github.com/ollama/ollama)
