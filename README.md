@@ -138,6 +138,7 @@ A list for GPT resources
 - [https://github.com/StanGirard/quivr](https://github.com/StanGirard/quivr)
 - [https://github.com/langgenius/dify](https://github.com/langgenius/dify)
 - [https://github.com/explodinggradients/ragas](https://github.com/explodinggradients/ragas)
+- [https://github.com/infiniflow/ragflow](https://github.com/infiniflow/ragflow)
 
 # Knowledge base
 - [https://github.com/labring/FastGPT](https://github.com/labring/FastGPT)
