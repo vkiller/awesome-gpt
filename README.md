@@ -170,5 +170,9 @@ A list for GPT resources
 # Open Model
 - [https://github.com/ollama/ollama](https://github.com/ollama/ollama)
 
+# Open Chat
+- [https://github.com/lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)
+- 
+
 # SDK & Example
 - [Flutter & ChatGPT](https://github.com/iampawan/ChatGPT-Flutter-AIChatBot)
