@@ -144,6 +144,7 @@ A list for GPT resources
 # Knowledge base
 - [https://github.com/labring/FastGPT](https://github.com/labring/FastGPT)
 - [https://github.com/1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB)
+- [https://github.com/ConardLi/easy-dataset](https://github.com/ConardLi/easy-dataset)
 
 # Agents & Chain-of-Thought
 - [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/)
