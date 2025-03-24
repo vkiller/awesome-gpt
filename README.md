@@ -25,10 +25,11 @@ A list for GPT resources
 - Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond [https://arxiv.org/pdf/2304.13712.pdf](https://arxiv.org/pdf/2304.13712.pdf)
 - [ChatGPT 背后的“功臣”——RLHF 技术详解](https://huggingface.co/blog/zh/rlhf)
 - [https://github.com/huggingface/blog/blob/main/zh/rlhf.md](https://github.com/huggingface/blog/blob/main/zh/rlhf.md)
-## Amazon NLP
+## Amazon LLM
 
 - Multimodal Chain-of-Thought Reasoning in Language Models [https://github.com/amazon-science/mm-cot](https://github.com/amazon-science/mm-cot)
 - Paper [https://arxiv.org/pdf/2302.00923.pdf](https://arxiv.org/pdf/2302.00923.pdf)
+- [https://github.com/awslabs/multi-agent-orchestrator](https://github.com/awslabs/multi-agent-orchestrator)
 
 ## Meta NLP
 
